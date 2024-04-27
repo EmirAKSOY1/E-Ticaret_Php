@@ -1,0 +1,17 @@
+.card-img-top
+{
+  width: 200px;
+}
+.pagination{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#urun_adet{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#caro{
+            height: 40rem;
+        }

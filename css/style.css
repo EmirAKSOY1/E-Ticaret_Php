@@ -1,0 +1,43 @@
+.card-price {
+    color: green;
+}
+
+.product-detail {
+    text-decoration: none;
+}
+
+.card {
+    width: 300px;
+    height: 500px;
+}
+
+.card-img-top {
+
+
+    height: 300px;
+    width: 200px;
+
+    margin-left: 10%;
+    margin-top: 10%;
+
+}
+
+.card-text {
+    white-space: nowrap;
+    color: black;
+    overflow: hidden;
+    text-overflow: ellipsis;
+
+}
+
+
+  
+.cart-btn{
+    border-bottom:0;
+}
+#dropdown{
+    margin-top: 2%;
+}
+#aktif{
+    background-color:#92d7d9;
+}
